@@ -1,4 +1,4 @@
-techonerd.github.io
+beercury.github.io
 ===============
 
 //This is a short profile page made using the Google Developers Group New Delhi's Github Repo : [gdgnewdelhi.github.io](https://www.github.com/gdgnewdelhi/gdgnewdelhi.github.io)
